@@ -1,1 +1,1 @@
-test file _chaged
+test file _changes has been made 
